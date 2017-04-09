@@ -30,5 +30,13 @@
     "eslint-config-xo": "^0.18.1",
     "eslint-plugin-xo": "^1.0.0",
     "xo": "^0.18.1"
-  }
+  },
+  "keywords": [
+    "array",
+    "union",
+    "deep",
+    "functional",
+    "array-union",
+    "arr"
+  ]
 }

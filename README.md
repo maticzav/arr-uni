@@ -1,4 +1,4 @@
-# arr-uni
+# arr-uni [![Build Status](https://travis-ci.org/maticzav/arr-uni.svg?branch=master)](https://travis-ci.org/maticzav/arr-uni)
 
 > Get the union of multiple arrays.
 > Works with objects, array of objects, arrays of arrays etc. (It works!)
